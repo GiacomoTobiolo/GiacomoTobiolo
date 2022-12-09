@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GiacomoTobiolo
-- 👀 I’m interested in coding, platform engineering, cyber security, vr
-- 🌱 I’m currently learning golang, html
-- 📫 How to reach me : giacomotobiolo@hotmail.t 
+- 👀 I’m interested in cloud computing, Site Reliabilty Engineering, Cyber Security.
+- 📫 How to reach me : giacomotobiolo@hotmail.it 
 
 <!---
 GiacomoTobiolo/GiacomoTobiolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
